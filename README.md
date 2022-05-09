@@ -1,0 +1,95 @@
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Blood_Bank_Search_App_BBD_0"></a>Plant Disease  Detection And Classification “Plantest”</h1>
+<!-- <h4 class="code-line" data-line-start=1 data-line-end=2 ><a id="Every_Life_Matters_1"></a>Every Life Matters</h4> -->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+A Simple to use Plant disease detection model integrated in mobile application with other features such as weather forecast and useful news/info</p>
+<h2 class="code-line" data-line-start=7 data-line-end=8 ><a id="Features_7"></a>Features</h2>
+<ul>
+<li class="has-line-data" data-line-start="8" data-line-end="9">Open source user friendly interface for farmers.</li>
+<li class="has-line-data" data-line-start="9" data-line-end="10">Backend template that can be used to convert a model into REST api.</li>
+  <li class="has-line-data" data-line-start="8" data-line-end="9">Weather forecast.</li>
+<li class="has-line-data" data-line-start="10" data-line-end="11">Useful news/info.</li>
+<!-- <li class="has-line-data" data-line-start="11" data-line-end="12">Register yourself in blood donation camps for donation of blood.</li>
+<li class="has-line-data" data-line-start="12" data-line-end="14">Register yourself as a donor to help others. COMMING</li> -->
+</ul>
+<!-- <p class="has-line-data" data-line-start="14" data-line-end="15">Our app includes these features with complete login using mobile otp and a simple and clean ui.</p> -->
+<h2 class="code-line" data-line-start=16 data-line-end=17 ><a id="Tech_16"></a>Tech</h2>
+<p class="has-line-data" data-line-start="18" data-line-end="19">Plantest uses a number of open source tools and libraries to work properly:</p>
+<h5 class="code-line" data-line-start=20 data-line-end=21 ><a id="Frontend_20"></a>Frontend</h5>
+<ul>
+<li class="has-line-data" data-line-start="21" data-line-end="22"><a href="https://reactjs.org/">React.js</a> - JavaScript library for building or UI components</li>
+<li class="has-line-data" data-line-start="22" data-line-end="23"><a href="https://reactnative.dev/">ReactNative</a> - JavaScript-based mobile app framework that allows you to build natively-rendered mobile apps for iOS and Android</li>
+<!-- <li class="has-line-data" data-line-start="23" data-line-end="24"><a href="https://www.npmjs.com/package/redux">Redux</a> - JavaScript library for managing application state.</li> -->
+</ul>
+<h5 class="code-line" data-line-start=26 data-line-end=27 ><a id="Backend_26"></a>Backend </h5>
+<ul>
+<li class="has-line-data" data-line-start="27" data-line-end="28"><a href="http://nodejs.org">Flask</a> - evented I/O for the backend</li>
+<li class="has-line-data" data-line-start="28" data-line-end="29"><a href="http://expressjs.com">Python</a> - fast node.js network app framework</li>
+<!-- <li class="has-line-data" data-line-start="29" data-line-end="30"><a href="https://www.mongodb.com/">MongoDB</a> - a document-oriented NoSql database</li>
+<li class="has-line-data" data-line-start="30" data-line-end="32"><a href="https://www.npmjs.com/package/mongoose">Mongoose.js</a> - an Object Data Modeling (ODM) library for MongoDB and Node. js.</li> -->
+  
+
+</ul>
+<!-- <h5 class="code-line" data-line-start=26 data-line-end=27 ><a id="Backend_26"></a>Backend Repo for this is <a href="https://github.com/MEMARSAHAB/Buddy-Api">Here</a> </h5>  
+<h5 class="code-line" data-line-start=26 data-line-end=27 ><a id="Backend_26"></a>Website Repo for this is <a href="https://github.com/MEMARSAHAB/Buddy-Web">Here</a> </h5>  
+ -->
+
+<h2 class="code-line" data-line-start=34 data-line-end=35 ><a id="Installation_34"></a>Installation</h2>
+
+<h4 class="code-line" data-line-start=66 data-line-end=67 ><a id="Mobile_App_66"></a>To run this applicatioin follow these steps</h4>
+
+<h4 class="code-line" data-line-start=66 data-line-end=67 ><a id="Mobile_App_66"></a>For Mobile App</h4>
+<p class="has-line-data" data-line-start="67" data-line-end="69">Plantest requires <a href="https://expo.io/">Expo</a> to run.<br>
+Install expo-cli</p>
+<pre><code class="has-line-data" data-line-start="70" data-line-end="72" class="language-sh">npm install --global expo-cli
+</code></pre>
+<p class="has-line-data" data-line-start="73" data-line-end="74">Install the dependencies and and start the App.</p>
+<pre><code class="has-line-data" data-line-start="75" data-line-end="80" class="language-sh">
+npm i
+expo start
+scan qr code <span class="hljs-keyword">in</span> expo app and boom app is runing.
+</code></pre>
+
+<h4 class="code-line" data-line-start=66 data-line-end=67 ><a id="Mobile_App_66"></a>For API</h4>
+<p class="has-line-data" data-line-start="73" data-line-end="74">Install the dependencies and and start the server.</p>
+<pre><code class="has-line-data" data-line-start="75" data-line-end="80" class="language-sh">
+pip install requirement.text
+python mian.py
+</code></pre>
+
+<h2 class="code-line" data-line-start=81 data-line-end=82 ><a id="Contributing_81"></a>Contributing</h2>
+<p class="has-line-data" data-line-start="83" data-line-end="84">Want to contribute? Great!</p>
+<ul>
+<li class="has-line-data" data-line-start="84" data-line-end="85">Fork the Project</li>
+<li class="has-line-data" data-line-start="85" data-line-end="86">Create your Feature Branch (git checkout -b feature/AmazingFeature)</li>
+<li class="has-line-data" data-line-start="86" data-line-end="87">Commit your Changes (git commit -m ‘Add some AmazingFeature’)</li>
+<li class="has-line-data" data-line-start="87" data-line-end="88">Push to the Branch (git push origin feature/AmazingFeature)</li>
+<li class="has-line-data" data-line-start="88" data-line-end="90">Open a Pull Request</li>
+</ul>
+<h2 class="code-line" data-line-start=90 data-line-end=91 ><a id="feadback_90"></a>feadback</h2>
+<p class="has-line-data" data-line-start="92" data-line-end="93">Have an idea to tack it forword make a PR or open a issue.</p>
+<p class="has-line-data" data-line-start="94" data-line-end="95">All the PR’s and Issue’s are Welcome</p>
+<h2 class="code-line" data-line-start=96 data-line-end=97 ><a id="License_96"></a>License</h2>
+<p class="has-line-data" data-line-start="98" data-line-end="99">MIT</p>
+<p class="has-line-data" data-line-start="100" data-line-end="101"><strong>Free Software, Hell Yeah!</strong></p>
+
+<!-- <h2 class="code-line" data-line-start=16 data-line-end=17 >APP Screens</h2>
+
+<div display='flex' flexDirection='row' justifycontent='space-between'>
+
+  <img src='https://i.imgur.com/IMBEaY6.jpg' title="A cute kitten" width="200" height="500">
+  <img src='https://i.imgur.com/yXT8i2C.jpg' title="A cute kitten" width="200" height="500">
+  <img src='https://i.imgur.com/Owt3Ve9.jpg' title="A cute kitten" width="200" height="500">
+  <img src='https://i.imgur.com/Atkfbfy.jpg' title="A cute kitten" width="200" height="500">
+  <img src='https://i.imgur.com/dpXb9uy.jpg' title="A cute kitten" width="200" height="500">
+  <img src='https://i.imgur.com/HKxJav8.jpg' title="A cute kitten" width="200" height="500">
+  <img src='https://i.imgur.com/ANnN4D5.jpg' title="A cute kitten" width="200" height="500">
+  <img src='https://i.imgur.com/UlpOnLZ.jpg' title="A cute kitten" width="200" height="500">
+  <img src='https://i.imgur.com/Z1w2Yln.jpg' title="A cute kitten" width="200" height="500">
+  <img src='https://i.imgur.com/HoU5Uvu.jpg' title="A cute kitten" width="200" height="500">
+  <img src='https://i.imgur.com/pbX0Emk.jpg' title="A cute kitten" width="200" height="500">
+  <img src='https://i.imgur.com/bFqCQaY.jpg' title="A cute kitten" width="200" height="500">
+  
+</div> -->
+
