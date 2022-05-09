@@ -1,0 +1,20 @@
+{
+  "translation": {
+    "lng": "English",
+    "news" : "News",
+    "language": "Aa",
+    "wind": "Wind Speed",
+    "allow": "Allow Location Permission for Weather forcast",
+    "allow2": "Allow",
+    "snnf": "Sorry no news found",
+    "scan": "Scan Image",
+    "result": "Result",
+    "disc": "Discription",
+    "identify": "Identification/Symptoms",
+    "treatment": "Disease Management/Treatment",
+    "day_Prediction_1": "Clear throught the day",
+    "day_Prediction_2": "Cloudy throught the day",
+    "day_Prediction_3": "Rainy throught the day",
+    "day_Prediction_4": "Snowy throught the day"
+  }
+}
